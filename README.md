@@ -40,12 +40,13 @@ npm run cypress:open
 npm run cypress:run
 ```
 
----
+
 🧪 Sample Test Explanation
 Navigates to Google homepage
 Types "Cypress testing" into search input
 Presses Enter to search
 Verifies the URL and search results container
+
 ---
 
 Author:
