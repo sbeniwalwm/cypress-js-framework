@@ -48,10 +48,7 @@ npm run cypress:run
 #### Verifies the URL and search results container
 
 ---
-
-Author:
-
-Sudhirr H Beniwal 
-GitHub@sbeniwalwm
-
+# Author
+Sudhirr H Beniwal
+GitHub: @sbeniwalwm
 ---
